@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Madhya Pradesh: At least 35 die after falling into a stepwell",
+    "description": "The incident took place in India's Madhya Pradesh state during a prayer ceremony at a temple.",
+    "url": "http://www.bbc.co.uk/news/world-asia-india-65134372",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8E97/production/_129230563_well2.jpg",
+    "publishedAt": "2023-03-31T04:52:21.6303374Z",
+    "content": "At least 35 people have been killed after falling into a stepwell while offering prayers at a temple in the central Indian state of Madhya Pradesh.\r\nFourteen others have been rescued and one person i… [+1461 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "What did Gwyneth Paltrow say to the man who sued her?",
+    "description": "As she left from the courtroom after being cleared, Gwyneth Paltrow paused to speak to the man who sued her.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-65133932",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3B63/production/_129230251_gettyimages-1249993514.jpg",
+    "publishedAt": "2023-03-31T02:52:16.5567684Z",
+    "content": "Media caption, Watch: Paltrow has the last word with the man who sued her\r\nWhat did Gwyneth Paltrow say to the man who sued her? \r\nAfter Ms Paltrow was found not at fault for a 2016 ski crash at a re… [+1648 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Gwyneth Paltrow cleared in ski crash trial",
+    "description": "The Oscar winner has won her high-profile case over a 2016 accident in Utah.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65132827",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6A92/production/_129228272_gprtop.jpg",
+    "publishedAt": "2023-03-30T23:07:21.3630713Z",
+    "content": "A jury has found US actress Gwyneth Paltrow was not at fault for a 2016 ski crash at a resort in Utah.\r\nRetired optometrist Terry Sanderson, 76, had said Paltrow crashed into him, leaving him with li… [+402 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Police wrestle growling alligator in Florida",
+    "description": "Bodycam footage shows the moment an officer pounces on the reptile in the streets of Tampa.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65118221",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C9D8/production/_129227615_p0fd0fcm.jpg",
+    "publishedAt": "2023-03-30T20:52:14.6283635Z",
+    "content": "Tampa police encountered a cranky alligator in the street and used rope, duct tape and a bit of wrestling to wrangle the reptile. The alligator was loaded into the bed of a truck and relocated to a m… [+17 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "The Americans who have lived through multiple mass shootings",
+    "description": "This week's shooting in Nashville has highlighted the small cohort of people in the US who have been caught up in multiple mass shootings.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65114926",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EA36/production/_129185995_gettyimages-1249830211.jpg",
+    "publishedAt": "2023-03-30T19:37:22.8169203Z",
+    "content": "Shaundelle Brooks says she worries about mass shootings every time she drops her son Aldane off at school. \r\nIt has been just five years since she lost her older son, 23-year-old Akilah DaSilva, in a… [+4551 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "'Pras' Michel trial sees former rapper in court for vast 'influence scheme'",
+    "description": "Prosecutors claim the ex-Fugee \"Pras\" Michel was \"willing to break any law\" in exchange for money.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65130683",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1146A/production/_129226707_61e837c12efa41bda14e83f962f2f277d5b200dd0_0_2893_20041000x693.jpg",
+    "publishedAt": "2023-03-30T19:22:18.0807064Z",
+    "content": "Prosecutors claim that ex-Fugees rapper Prakazrel \"Pras\" Michel took $100m (£81.4m) from a fugitive tycoon to generate favour with top US officials. \r\nMr Michel, 50, is accused of taking the money fr… [+3919 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "'Gutless': Congressional shouting match over guns",
+    "description": "A Democrat and Republican traded barbs in the halls of Congress after yet another school shooting.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65118220",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/31D0/production/_129225721_p0fcyr8d.jpg",
+    "publishedAt": "2023-03-30T16:37:16.0344359Z",
+    "content": "'Gutless': Congressional shouting match over guns. Video, 00:01:02'Gutless': Congressional shouting match over guns"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nova Scotia mass shooting inquiry heavily criticises police response",
+    "description": "A report criticises the RCMP for failing to act in a way that could have prevented casualties.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65107912",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6538/production/_129221952_gettyimages-1210468640-1.jpg",
+    "publishedAt": "2023-03-30T15:52:18.955715Z",
+    "content": "An inquiry into the deadliest mass shooting in Canadian history has criticised police for failing to act quickly to prevent casualties. \r\nTwenty-two people were killed in the province of Nova Scotia … [+1812 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Russia detains US journalist Evan Gershkovich on suspicion of spying",
+    "description": "Evan Gershkovich was working for the Wall Street Journal, which is \"deeply concerned\" for his safety.",
+    "url": "http://www.bbc.co.uk/news/world-europe-65121885",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E47B/production/_129219485_untitled-2-2-1.jpg",
+    "publishedAt": "2023-03-30T11:22:25.0812914Z",
+    "content": "A US journalist working for The Wall Street Journal has been detained in Russia on suspicion of espionage, the FSB security service says.\r\nEvan Gershkovich, an experienced Russia reporter, was workin… [+2775 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Kentucky helicopter crash: Deaths expected after military aircraft collision",
+    "description": "The military helicopters were involved in a routine training mission when the incident happened.",
+    "url": "http://www.bbc.co.uk/news/world-65121331",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E83/production/_115651730_breaking-promo-976.png",
+    "publishedAt": "2023-03-30T06:07:22.7105104Z",
+    "content": "A number of people are expected to have been killed after a US Army helicopter crash in Trigg County, Kentucky. \r\nThe state's Governor Andy Beshear said it was \"tough news\" with \"early reports of a h… [+646 chars]"
+    }
+    ]
+    }
